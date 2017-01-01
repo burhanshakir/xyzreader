@@ -24,4 +24,8 @@
     <color name="ltgray">#ffe0e0e0</color>
     <color name="drkgray">#A9A9A9</color>
     <color name="text">#E8B80C</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorPrimary">#607D8B</color>
+    <color name="colorPrimaryDark">#455A64</color>
+    <color name="colorAccent">#E88F0C</color>
 </resources>
